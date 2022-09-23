@@ -1541,6 +1541,14 @@ const tokens = {
     decimals: 9,
     projectLink: "https://www.ampleforth.org/",
   },
+ etb: {
+  symbol: "ETB",
+  address: {
+    56: "0x80645f5709e25f43d4914988e4EB3c5193D8f86f",
+    97: "",
+  },
+  decimals: 9,
+  projectLink: "https://www.ethio.me/",
 };
 
 export default tokens;
